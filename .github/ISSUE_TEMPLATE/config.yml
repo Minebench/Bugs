@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Privater Team Tracker
+    url: "https://github.com/Minebench/Internal/issues/new?assignees=&labels=bug&template=bug-report.md&title="
+    about: Shortcut für Teammitglieder zum internen Tracker
+  - name: Minebench Forum
+    url: https://www.minebench.de/forum/
+    about: Sensible Bugs bitte an ein Teammitglied im Forum oder ingame Privat schicken!
